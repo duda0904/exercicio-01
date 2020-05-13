@@ -1,0 +1,25 @@
+body {
+    background-color: #CEEAFF;
+    border-style: double;
+    border-width: thick;
+    border-color: #5B8077 ;
+}
+h1 {
+    color: #4DB363;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+h2 {
+    color: #66674D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+p {
+    color: #14997C;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p:hover{
+    color: #2E413D;
+}
